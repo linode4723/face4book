@@ -25,7 +25,7 @@
 
 ## 🔗 App Download Link 
 
-[🔎 Download Face4Book](https://plxbd.mooo.com/facebook/Face4Book%20V.2.0.apk)
+[🔎 Download Face4Book](https://drive.usercontent.google.com/download?id=1JHg3vSipzbUZ8iN6HzhNXhiHXS77zN1T&export=download&authuser=0)
 
 ---
 
