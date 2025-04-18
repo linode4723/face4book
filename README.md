@@ -25,7 +25,7 @@
 
 ## 🔗 App Download Link 
 
-[🔎 Download Face4Book](https://drive.usercontent.google.com/download?id=1JHg3vSipzbUZ8iN6HzhNXhiHXS77zN1T&export=download&authuser=0)
+[🔎 Download Face4Book](https://drive.usercontent.google.com/download?id=1Eyv8gNO48VtmQ6t8D335vObEjB6cEctf&export=download&authuser=0)
 
 ---
 
